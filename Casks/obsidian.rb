@@ -1,8 +1,8 @@
 cask "obsidian" do
-  version "1.0.3"
-  sha256 "0d817d7c4a5968fe2d0ff79e6407a00da851ed4672ae8a8d07d6e7d94eec817b"
+  version "1.1.8"
+  sha256 "7aaf3124260098a3cce006584946cf1425e49571efa85ddc717de8c33cc5ec10"
 
-  url "https://github.com/obsidianmd/obsidian-releases/releases/download/v#{version}/Obsidian-#{version}-universal.dmg",
+  url "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.8/Obsidian-1.1.8-universal.dmg",
       verified: "github.com/obsidianmd/"
   name "Obsidian"
   desc "Knowledge base that works on top of a local folder of plain text Markdown files"
